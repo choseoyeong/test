@@ -1,0 +1,78 @@
+exports.data1 = {
+  type: "spline",
+  name: "Arousal",
+  showInLegend: true,
+  dataPoints: [
+    { y: Math.random(), label: " 00:01" },
+    { y: Math.random(), label: " 00:02" },
+    { y: Math.random(), label: " 00:03" },
+    { y: Math.random(), label: " 00:04" },
+    { y: Math.random(), label: " 00:05" },
+    { y: Math.random(), label: " 00:06" },
+    { y: Math.random(), label: " 00:07" },
+    { y: Math.random(), label: " 00:08" },
+    { y: Math.random(), label: " 00:09" },
+    { y: Math.random(), label: " 00:10" },
+    { y: Math.random(), label: " 00:11" },
+    { y: Math.random(), label: " 00:12" },
+  ],
+};
+exports.data2 = {
+  type: "spline",
+  name: "Valence",
+  showInLegend: true,
+  dataPoints: [
+    { y: Math.random(), label: " 00:01" },
+    { y: Math.random(), label: " 00:02" },
+    { y: Math.random(), label: " 00:03" },
+    { y: Math.random(), label: " 00:04" },
+    { y: Math.random(), label: " 00:05" },
+    { y: Math.random(), label: " 00:06" },
+    { y: Math.random(), label: " 00:07" },
+    { y: Math.random(), label: " 00:08" },
+    { y: Math.random(), label: " 00:09" },
+    { y: Math.random(), label: " 00:10" },
+    { y: Math.random(), label: " 00:11" },
+    { y: Math.random(), label: " 00:12" },
+  ],
+};
+
+exports.data3 = {
+  type: "spline",
+  name: "man 20s ages",
+  showInLegend: true,
+  dataPoints: [
+    { y: Math.random(), label: " 00:01" },
+    { y: Math.random(), label: " 00:02" },
+    { y: Math.random(), label: " 00:03" },
+    { y: Math.random(), label: " 00:04" },
+    { y: Math.random(), label: " 00:05" },
+    { y: Math.random(), label: " 00:06" },
+    { y: Math.random(), label: " 00:07" },
+    { y: Math.random(), label: " 00:08" },
+    { y: Math.random(), label: " 00:09" },
+    { y: Math.random(), label: " 00:10" },
+    { y: Math.random(), label: " 00:11" },
+    { y: Math.random(), label: " 00:12" },
+  ],
+};
+
+exports.data4 = {
+  type: "spline",
+  name: "man 30s ages",
+  showInLegend: true,
+  dataPoints: [
+    { y: Math.random(), label: " 00:01" },
+    { y: Math.random(), label: " 00:02" },
+    { y: Math.random(), label: " 00:03" },
+    { y: Math.random(), label: " 00:04" },
+    { y: Math.random(), label: " 00:05" },
+    { y: Math.random(), label: " 00:06" },
+    { y: Math.random(), label: " 00:07" },
+    { y: Math.random(), label: " 00:08" },
+    { y: Math.random(), label: " 00:09" },
+    { y: Math.random(), label: " 00:10" },
+    { y: Math.random(), label: " 00:11" },
+    { y: Math.random(), label: " 00:12" },
+  ],
+};
